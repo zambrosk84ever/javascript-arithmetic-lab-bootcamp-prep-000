@@ -22,13 +22,6 @@ function dec (a) {
   return (a - 1)}
   (3)
 
-///nan///
 function makeInt(n){
-  return parseInt()}
-  
-function makeInt(n){
-  return parseInt('0x2328', 10)
+  return parseInt(n)
 }
-
-function makeInt(n){
-  return parseInt('asdflkja')}
