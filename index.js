@@ -30,6 +30,5 @@ function makeInt(n){
   return parseInt('0x2328', 10)
 }
 
-function isNan(n){
+function makeInt(n){
   return parseInt('asdflkja')}
-}
